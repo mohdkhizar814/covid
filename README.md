@@ -1,2 +1,1 @@
-# covid
-covid new proj
+# Covid-19
